@@ -1,0 +1,12 @@
+nama = input("NAMA MAHASISWA : ")
+nim = input("NIM LENGKAP :")
+a = int(input("digit a :"))
+b = int(input("digit b :"))
+
+print("++++++++ hasil ++++++++")
+print("A lebih besar B", a>b)
+print("A lebih kecil B", a<b)
+print("A sama dengan B", a==b)
+print("A tidak sama dengan B", a!=b)
+print("A lebih besar sama dengan B", a>=b)
+print("A lebih kecil sama dengan B", a<=b)
